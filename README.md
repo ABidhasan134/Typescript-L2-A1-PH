@@ -87,11 +87,11 @@ type User = (Admin | Editor) & CommonInfo;
 const user1: User = {
 name: "Hasan",
 role: "admin",
-email: "hasan@example.com"
+email: "hasan@gmail.com"
 };
 
 const user2: User = {
 name: "Raju",
 role: "editor",
-email: "raju@example.com"
+email: "raju@gmail.com"
 };
